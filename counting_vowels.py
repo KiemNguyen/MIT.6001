@@ -5,7 +5,7 @@
 
 #Number of vowels: 5
 
-s = str(raw_input("Enter a string: " ));
+s = str(raw_input("Enter a string: " ))
 def vowels(string):
     count = 0
     for i in range (len(s)):
